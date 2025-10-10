@@ -1,1 +1,1 @@
-Circuito LM2596 con regolazione di tensione e corrente
+Circuito LM2596 con regolazione di tensione e corrente download file di produzione
