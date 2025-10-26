@@ -1,1 +1,0 @@
-Questo circuito viene creato per ESP32 30 pin in abbinamento con display TFT 1.8 adatto per riprodurre in modo semplice piccoli progetti con i vari moduli di arduino per rilevazione misure da sensori e visualizzazione su diaplay
