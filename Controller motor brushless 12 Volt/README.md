@@ -1,0 +1,1 @@
+In questo progetto viene implementato un circuito controller motor Brushless a 12 Volt. Viene utilizzato un buck converter pre abbassare la tensione da 12 a 5 Volt che alimenta il microcontrollore Arduino Nano. Quest'ultimo invia i segnali ai driver ir2101s che a loro volta pilotato i mosfet ir7843.   
